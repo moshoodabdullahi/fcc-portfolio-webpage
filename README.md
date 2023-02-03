@@ -18,12 +18,13 @@ Additional description about the project and its features.
   - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Positioning `fixed`,
   - CSS Background for page aesthetic using `background-color`, `background-image`.
-  - `img`, `h1`, `footer`, `h2`, `p`, `ul`, 
+  - `img`, `h1`, `footer`, `h2`, `p`, `ul`,
   - `body`, `a`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
 - GitHub Action
+
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
