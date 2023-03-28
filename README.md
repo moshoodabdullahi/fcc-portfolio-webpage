@@ -1,25 +1,22 @@
-# FCC-PORTFOLIO-WEBPAGE
+# FCC PORTFOLIO WEBPAGE
 
-> A basic HTML and CSS properties to demostrate styling.
+> A portfolio webpage built using media queries, semantic elements and advance styling.
 
 ![screenshot](./_C__projects_fcc_fcc-portfolio-webpage_index.html.png)
 
-Additional description about the project and its features.
+# This PR adds portfolio webpage using media queries, semantic elements and advance styling.
 
-## Built With  
+## Built With
 
 - HTML5 elements
-  - `nav`,
-  - `ul`, `li`, `a`,
-  - `section`, `h1`, `p`
-  - `div`, `img`, `span`, `h2`, `footer`.
+  - Semantic elements such as `span`, `div`,
 - CSS properties
-  - CSS Variables for reusable CSS values,
-  - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Positioning `fixed`,
-  - CSS Background for page aesthetic using `background-color`, `background-image`.
-  - `img`, `h1`, `footer`, `h2`, `p`, `ul`,
-  - `body`, `a`.
+  - CSS Variables for reusable CSS values,
+  - CSS pseudeo class selector such as `:root`,
+  - CSS Media Query for page responsiveness using `@media` rule,
+  - Typography such as `font-family`, `font-size`, `font-weight` and so on,
+  - CSS Background for page aesthetic using `background-color`, `background-image`, `background`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
@@ -34,7 +31,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-portfolio-webpage.git
 ```
 
 - Install Dependencies
@@ -77,7 +74,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
