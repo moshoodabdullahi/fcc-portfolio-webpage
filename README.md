@@ -4,8 +4,6 @@
 
 ![screenshot](./_C__projects_fcc_fcc-portfolio-webpage_index.html.png)
 
-# This PR adds portfolio webpage using media queries, semantic elements and advance styling.
-
 ## Built With
 
 - HTML5 elements
